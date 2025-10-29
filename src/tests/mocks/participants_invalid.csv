@@ -1,0 +1,7 @@
+name,fatherName,school,homeTown,email,phone,dob,class,type
+Rahul Sharma,Vikram Sharma,Springfield Public School,Delhi,rahul.sharma@example.com,9876543210,2010-05-12,8,individual
+Sneha Patel,Harish Patel,Green Valley Academy,Mumbai,sneha.patel@example.com,9123456789,2009-08-20,9,individual
+Amit Roy,Sanjay Roy,St. Xavier's High School,Kolkata,amit.roy@example.com,9991122334,2002-03-05,4,school
+Priya,Rajesh Das,City International School,Pune,priya.das@example,9811122233,2011-11-25,7,individual
+Arjun Nair,Suraj Nair,Oxford English School,Bangalore,arjun.nair@example.com,9001122334,2012-07-15,6,school
+Tina Verma,Anil Verma,Greenwood Public School,Chennai,tina.verma@example.com,9012345678,2014-09-09,5,individual
